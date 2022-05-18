@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  color: white;
+  background-color: black;
+  border: 40px solid green;
+  border-top: 0px;
+}
+#sep{
+  border: 0px;
+  margin: 10%;
+}
+form{
+  padding-bottom: 5%;
+  font-size: 120%;
+  font-family: sans-serif;
+}
+#sub{
+  border-radius: 10px;
+  background-color: yellow;
+  width:110px;
+  height: 30px;
+  font-family: fantasy;
+  font-size: 20px;
+  margin-top: 5px;
+}
+p{
+  font-family: 'Macondo', cursive;
+  padding-right: 5%;
+  padding-left: 5%;
+}
